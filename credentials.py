@@ -1,3 +1,3 @@
-# TODO: Update these values with your login credentials
+# TODO: Update these variables with your login credentials
 username = ''
 password = ''
