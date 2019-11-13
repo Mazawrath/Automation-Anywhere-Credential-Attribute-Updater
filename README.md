@@ -1,5 +1,5 @@
 # Automation-Anywhere-Credential-Attribute-Updater
-Uses the Automation Anywhere API to update a credential attribute value in Credential Valut.
+Uses the Automation Anywhere API to update a credential attribute value in Credential Vault.
 
 ## How to run
 - Update the `credentials.py` file with your own username and password.
